@@ -1,5 +1,5 @@
 ---
-title: "Tarea 3 Procesamiento de datos"
+title: "Tarea 3 Procesamiento de datos, Byron Vargas Montero, C18272"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
